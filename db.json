@@ -1,0 +1,34 @@
+{
+  "alunos": [
+    {
+      "nome": "Raquel",
+      "idade": 15,
+      "notas": [8.5, 7.1, 9.2],
+      "frequencia": [true, true, true, false, true, true, true, true, true, true]
+    },
+    {
+      "nome": "Marcos",
+      "idade": 19,
+      "notas": [8.7, 8.1, 6.5],
+      "frequencia": [true, true, false, true, true, true, false, true, true, true]
+    },
+    {
+      "nome": "Luana",
+      "idade": 18,
+      "notas": [10.0, 7.5, 4.8],
+      "frequencia": [true, true, true, true, true, true, true, true, true, true]
+    },
+    {
+      "nome": "Felipe",
+      "idade": 17,
+      "notas": [5.5, 6.8, 9.3],
+      "frequencia": [true, false, false, true, true, false, true, true, false, true]
+    },
+    {
+      "nome": "Lucia",
+      "idade": 20,
+      "notas": [4.0, 7.7, 8.9],
+      "frequencia": [true, true, true, true, true, true, true, true, false, true]
+    }
+  ]
+}
